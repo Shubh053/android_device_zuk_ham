@@ -109,6 +109,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     make_ext4fs \
     setup_fs
+#Doze
+PRODUCT_PACKAGES += \
+    HamDoze
 
 # Fingerprint
 PRODUCT_PACKAGES += \
