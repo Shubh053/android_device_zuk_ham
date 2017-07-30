@@ -18,5 +18,9 @@
     "repository": "MartinJesus23/Radioactive-Kernel-HAM",
     "target_path": "kernel/cyanogen/msm8974",
     "revision": "cpuquiet"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
   }
 ]
