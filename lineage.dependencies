@@ -1,17 +1,18 @@
 [
   {
     "repository": "MartinJesus23/android_device_zuk_ham",
-    "revision": "cm-14.1",
-    "target_path": "device/zuk/ham" 
+    "target_path": "device/zuk/ham",
+    "revision": "cm-14.1" 
   },
   {
     "repository": "MartinJesus23/proprietary_vendor_zuk",
-    "revision": "cm-14.1",
-    "target_path": "vendor/zuk"
+    "target_path": "vendor/zuk",
+    "revision": "cm-14.1"
   },
   {
-    "repository": "android_device_qcom_common",
-    "target_path": "device/qcom/common"
+    "repository": "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-14.1"
   },
   {
     "repository": "MartinJesus23/Radioactive-Kernel-HAM",
