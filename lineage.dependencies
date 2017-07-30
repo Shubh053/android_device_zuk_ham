@@ -1,14 +1,21 @@
 [
   {
+    "repository": "MartinJesus23/android_device_zuk_ham",
+    "revision": "cm-14.1",
+    "target_path": "device/zuk/ham" 
+  },
+  {
+    "repository": "MartinJesus23/proprietary_vendor_zuk",
+    "revision": "cm-14.1",
+    "target_path": "vendor/zuk"
+  },
+  {
     "repository": "android_device_qcom_common",
     "target_path": "device/qcom/common"
   },
   {
-    "repository": "android_kernel_cyanogen_msm8974",
-    "target_path": "kernel/cyanogen/msm8974"
-  },
-  {
-    "repository": "android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings"
+    "repository": "MartinJesus23/Radioactive-Kernel-HAM",
+    "target_path": "kernel/cyanogen/msm8974",
+    "revision": "cpuquiet"
   }
 ]
